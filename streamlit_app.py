@@ -1,3 +1,5 @@
+
+import snowflake.connector
 import streamlit
 import pandas
 streamlit.title('Tital changed! from Rupesh')
